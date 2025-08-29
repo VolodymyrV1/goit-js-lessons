@@ -5,14 +5,14 @@
 
 
 
-const user = {
-    name: "Alice",
-    skills: {
-        html: true,
-        css: false,
-        js: true
-    }
-};
+// const user = {
+//     name: "Alice",
+//     skills: {
+//         html: true,
+//         css: false,
+//         js: true
+//     }
+// };
 
 
 

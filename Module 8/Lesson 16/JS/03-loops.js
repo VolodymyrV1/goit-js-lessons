@@ -5,7 +5,7 @@
 
 
 
-const users = [{name: "Kate"}, {name: "Alice"}, {name: "Petya"}];
+// const users = [{name: "Kate"}, {name: "Alice"}, {name: "Petya"}];
 
 // Без деструктуризації
 // const names = [];
